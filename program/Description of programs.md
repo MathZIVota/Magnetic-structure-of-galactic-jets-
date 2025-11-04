@@ -1,2 +1,2 @@
-1. MathModel_calcJets.ipynb
+### 1. MathModel_calcJets.ipynb
   Пока имется простую реализацию вычисления интеграла Абеля.
