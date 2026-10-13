@@ -1,15 +1,6 @@
 ##### 1. stae2480.pdf - Depolarization and Faraday effects in AGN Jets
 # Заметка: Деполяризация и фарадеевские эффекты в джетах AGN
 
-## Источники
-
-1. **Yushkov, Pashchenko, Sokoloff, Chumarin (2024)** — *Depolarization and Faraday effects in AGN jets*, MNRAS 535, 1888–1897.
-2. **Sokoloff et al. (2024)** — *Inverse problem of reconstructing the helical magnetic field in AGN jets*, Russian J. Math. Phys. 31(3).
-
-Обе работы связаны: первая строит прямые модели деполяризации, вторая формулирует и решает обратную задачу восстановления магнитного поля по профилю RM.
-
----
-
 ## 1. Постановка проблемы
 
 - Джеты AGN излучают синхротронно и сильно линейно поляризованы.
