@@ -1,7 +1,6 @@
-##### 1. stae2480.pdf - Depolarization and Faraday effects in AGN Jets
-# Заметка 1: Yushkov, Pashchenko, Sokoloff, Chumarin (2024)
+##### 1. stae2480.pdf - Depolarization and Faraday effects in AGN Jets, Yushkov, Pashchenko, Sokoloff, Chumarin (2024)
+## Заметка 1: 
 
-## Depolarization and Faraday effects in AGN jets
 **MNRAS 535, 1888–1897 (2024)**
 
 ---
