@@ -811,7 +811,7 @@ def plot_all_errors_bar(rho, runs,
         arr = np.atleast_1d(np.asarray(d[err_key], float))
         data.append((name, float(np.mean(arr))))
 
-    if sort_by_error:
+    if not sort_by_error:
         data.sort(key=lambda x: x[1])
 
     names  = [x[0] for x in data]
