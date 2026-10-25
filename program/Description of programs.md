@@ -10,4 +10,6 @@
 > B_z_local(rho, B0=1.0, rho_scale=5.0): # локальный горб со сменой знака — аналог A_phi = ρ·e^(-ρ/L) \
  >     B0 * (1 - (rho / rho_scale)**2) * np.exp(-(rho / rho_scale)**2) \
 > B_z_linear(rho, B0=0.1): B0 * rho
+>
+### Temporary - текущая рабочая версия программы
 
